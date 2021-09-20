@@ -1,0 +1,39 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.home-picture {
+    height: 200px;
+    border-radius: 25px;
+}
+
+.item-picture {
+    height: 150px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+td, th {
+    border-top: 1px solid #DFDFDF;
+    border-bottom: 1px solid #DFDFDF;
+    text-align: left;
+    padding: 5px;
+}
+
+tr:nth-child(even) {
+    background-color: #94B9E2;
+}
+
+footer {
+    background-color: #0A4176;
+    color: #FFFFFF;
+    padding: 30px;
+    margin-top: 50px;
+    text-align: center;
+}
